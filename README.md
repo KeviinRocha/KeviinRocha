@@ -1,6 +1,3 @@
-
-
-
 ![Capa para facebook aula de grafite rosa e verde neon ousado](https://github.com/KeviinRocha/KeviinRocha/assets/138397362/a2e84ccc-77d0-451b-9c3d-f2db08f6480b)
 
 
@@ -11,7 +8,12 @@
 👨‍💻 Desenvolvedor em desenvolvimento! <br>
 🎓📚 Estudante de Análise e desenvolvimento de sistemas!
 
-![Kevin Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinRocha&show_icons=true&theme=tokyonight)
+![Kevin Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=KeviinRocha&show_icons=true&theme=tokyonight)
+
+ <div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeviinRocha&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## 💻Tecnologias que estou aprendendo:
 <div style="display: inline_block"><br>
